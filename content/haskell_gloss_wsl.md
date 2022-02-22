@@ -2,7 +2,7 @@
 author: Linus Wæhler
 title: Haskell and Gloss with WSL2
 date: 2022-02-22
-description: Setting upp Haskell and Gloss library on Windows, the *easier (but not easy)* way. Written primarily for classmates having issues with this.
+description: Setting up Haskell and Gloss library on Windows using WSL, the *easier (but not easy)* way. Written primarily for classmates having issues with this.
 math: true
 comment: true
 categories: ['haskell', 'gloss library', 'wsl2', 'windows', 'linux']
