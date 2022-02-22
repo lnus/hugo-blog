@@ -67,7 +67,7 @@ Run the shortcut that appears on your desktop and set the options to:
 - **DISABLE** Native OpenGL
 - **ENABLE** Disable access control
 
-Press the save config option, and put it somewhere nice.
+Press the save config option, and put it somewhere nice. You can even put this in your startup folder in order to have it run on startup.
 
 ### Linux configuration
 
@@ -108,7 +108,7 @@ If you see something like this, it is indeed working.
 
 ### aptitude (recommended)
 
-Installing cabal and ghc is very simple on Ubuntu, you can simply apt-get it!
+Installing cabal and ghc is very easy on Ubuntu, you can simply apt-get it!
 
 ```bash
 sudo apt-get install ghc cabal-install
