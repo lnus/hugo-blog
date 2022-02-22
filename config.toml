@@ -57,7 +57,7 @@ shortname = "hugo-minima"
 # **notice**: if you're going to use utterances, you must change the
 # `repo` to your own repo address that stores comments on your site
 [params.utterances]
-repo = "mivinci/hugo-theme-minima"
+repo = "lnus/hugo-blog"
 issueTerm = "pathname"
 
 # **deprecated**
